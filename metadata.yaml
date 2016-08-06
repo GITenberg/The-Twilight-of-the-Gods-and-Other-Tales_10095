@@ -1,0 +1,47 @@
+_repo: The-Twilight-of-the-Gods-and-Other-Tales_10095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garnett, Richard
+    alias: Trent, A. G.
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '3305'
+    url: http://www.gutenberg.org/2009/agents/3305
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Garnett_%28writer%29
+description: "The Twilight of the Gods and Other Tales is a collection of fantasy\
+  \ short stories by Richard Garnett, generally considered a classic in the genre.\
+  \ Its title notwithstanding, the collection \"has nothing to do with the Norse gods—although\
+  \ it draws upon everything else, from Arabic legends and Chinese fairy tales to\
+  \ Roman history and Greek mythology.\" The title story actually concerns the release\
+  \ of Prometheus from the torture to which he was sentenced by Zeus upon the ultimate\
+  \ eclipse of Greek paganism by Christianity.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10095'
+  wikidata: Q7770868
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'Mythology -- Fiction'
+- !lcsh 'Legends -- Fiction'
+- !lcsh 'Satire'
+- GITenberg
+tableOfContents: The twilight of the gods -- The potion of Lao-Taze -- Abdallah the
+  Adite -- Ananda the miracle worker -- The city of philosophers -- The demon pope
+  -- The cupbearer -- The wisdom of the Indians -- The dumb oracle -- Duke Virgil
+  -- The claw -- Alexander the ratcatcher -- The rewards of industry -- Madame Lucifer
+  -- The talismans -- The elixir of life -- The poet of Panopolis -- The purple head
+  -- The firefly -- Pan's wand -- A page from the book of folly -- The bell of Saint
+  Euschemon -- Bishop Addo and Bishop Gaddo -- The philosopher and the butterflies
+  -- Truth and her companions -- The three palaces -- New readings in biography --
+  The poison maid -- Notes.
+title: The Twilight of the Gods, and Other Tales
+url: http://www.gutenberg.org/ebooks/10095
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Twilight_of_the_Gods_and_Other_Tales
