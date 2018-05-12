@@ -1,5 +1,8 @@
 _repo: The-Twilight-of-the-Gods-and-Other-Tales_10095
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Garnett, Richard
@@ -16,6 +19,8 @@ description: "The Twilight of the Gods and Other Tales is a collection of fantas
   \ Roman history and Greek mythology.\" The title story actually concerns the release\
   \ of Prometheus from the torture to which he was sentenced by Zeus upon the ultimate\
   \ eclipse of Greek paganism by Christianity.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10095#The-Twilight-of-the-Gods-and-Other-Tales
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
